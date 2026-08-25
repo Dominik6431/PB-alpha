@@ -1,6 +1,6 @@
 {
-  "flag1_dialogshow": true,
+  "flag1_dialogshow": false,
   "flag2_blockapp": false,
   "dialog_title": "Hello,",
-  "dialog_description": "Due to technical problems, some of the AI features might not work correctly.\nWe are working on the issues and sincerely apologize for your any inconvenience.\n\nPlanBoards team"
+  "dialog_description": "Due to technical problems, some features might not work correctly.\nWe are working on the issues and sincerely apologize for your inconvenience.\n\nPlanBoards team"
 }
