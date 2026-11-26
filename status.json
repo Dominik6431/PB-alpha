@@ -1,6 +1,6 @@
 {
   "flag1_dialogshow": true,
-  "flag2_blockapp": true,
+  "flag2_blockapp": false,
   "dialog_title": "Upgrading PlanBoards,",
   "dialog_description": "Sorry for the inconvenience if you needed to use the app right now. We’re making PlanBoards even better - please check back in a few hours.\n\nPlanBoards team"
 }
